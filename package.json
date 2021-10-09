@@ -24,11 +24,11 @@
     "prettier": "prettier --write \"**/*.{js,jsx,tsx,ts,less,md,json}\""
   },
   "devDependencies": {
-    "@babel/core": "7.15.5",
-    "@babel/helper-create-class-features-plugin": "7.15.0",
+    "@babel/core": "7.15.8",
+    "@babel/helper-create-class-features-plugin": "7.15.4",
     "@babel/plugin-proposal-class-properties": "7.14.5",
-    "@babel/plugin-proposal-decorators": "7.14.5",
-    "@babel/preset-env": "7.15.0",
+    "@babel/plugin-proposal-decorators": "7.15.8",
+    "@babel/preset-env": "7.15.8",
     "@babel/preset-typescript": "7.15.0",
     "babel-preset-react-native": "4.0.1",
     "fs-extra": "10.0.0",
